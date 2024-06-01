@@ -1,0 +1,2 @@
+Build path: C:/Projects/UnityProjects/5282246_3_Upwordy/Build/WebGL
+Build number: 147
